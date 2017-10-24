@@ -12,8 +12,8 @@ namespace PFMDPOC
         protected void Page_Load(object sender, EventArgs e)
         {
             Response.Write("Test Page Dev1");
-            Response.Write("Test Page Dev2");
-            Response.Write("Test Page Dev3");
+            Response.Write("Test Page Dev1");
+
         }
     }
 }
